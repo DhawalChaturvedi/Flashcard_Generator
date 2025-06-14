@@ -1,4 +1,9 @@
 streamlit
-python-dotenv
 PyPDF2
-openai 
+transformers
+torch
+groq
+requests
+pillow
+pdf2image
+pytesseract
